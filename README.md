@@ -3,7 +3,7 @@
 <br>
 - 👋 Hi, I’m @lexxvel
 <br>
-- 👀 I’m interested in Web-development (PHP, JS), creating SPA using Vue.js. Also I`m interested in autotesting w/ Java(Selenoid).
+- 👀 I’m interested in Web-development (PHP, JS), creating SPA using Vue.js + Laravel. Also I`m interested in autotesting w/ Java(Selenoid).
 <br>
 - 🌱 I’m currently learning Laravel, Vue.js, Java(for autotests).
 <br>
