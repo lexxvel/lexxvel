@@ -5,7 +5,7 @@
 <br>
 - 👀 I’m interested in Web-development (PHP, JS), creating SPA using Vue.js + Laravel. Also I`m interested in autotesting w/ Java(Selenoid).
 <br>
-- 🌱 I’m currently learning Laravel, Vue.js, Java(for autotests).
+- 🌱 I’m currently learning Java(for autotests).
 <br>
 <!---
 - 💞️ I’m looking to collaborate on ...
